@@ -1,3 +1,9 @@
+#Adding files
+
+practice.ipynb
+.DS_Store
+.ipynb_checkpoints/
+
 *.gem
 *.rbc
 /.config
