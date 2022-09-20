@@ -3,6 +3,8 @@
 practice.ipynb
 .DS_Store
 .ipynb_checkpoints/
+__pycache__
+Mission_to_Mars_Challenge.py
 
 *.gem
 *.rbc
