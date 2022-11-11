@@ -46,4 +46,4 @@ The website was designed with Bootstrap style components as to make it visually 
 
 ## Summary 
 
-This Mission-To-Mars wensite/application is still currently active and scraping updated information from the website as it keeps updating. This type of application can be crucial as to automatize information requests on data that keeps evolving through time.
+This Mission-To-Mars website/application is still currently active and scraping updated information from the website as it keeps updating. This type of application can be crucial as to automatize information requests on data that keeps evolving through time.
